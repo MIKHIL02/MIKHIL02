@@ -66,7 +66,7 @@ Analysis of business sales data to understand performance, trends and growth opp
 - **Focus:** top-performing products, revenue and profit trends, business recommendations
 - **Tools:** `MySQL` `MySQL Workbench`
 
-### 🛍️ [Customer Behaviour Dashboard](https://github.com/MIKHIL02/customer-behaviour-dashboard)
+### 🛍️ [Customer Behaviour Dashboard](https://github.com/MIKHIL02/Customer-Behaviour-Analysis/blob/main/Customer%20Behaviour%20Dashboard.pbix)
 
 Power BI dashboard showing customer count, average purchase amount, review rating, and revenue and sales by category, with filters for subscription, gender, category and shipping type.
 
