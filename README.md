@@ -1,4 +1,4 @@
-<img width="1212" height="157" alt="image" src="https://github.com/user-attachments/assets/1d4fc4db-ce11-4c4d-b95a-cc8c67887ae8" /><p align="center">
+<p align="center">
   <img src="profile-banner.svg" alt="Mikhil Marjapuram - Aspiring Data Analyst" width="100%"/>
 </p>
 
@@ -25,7 +25,6 @@ I use **SQL, Excel, Python and Power BI** to clean, analyze and visualize data, 
 - 🌱 Learning advanced SQL, data storytelling and dashboard design
 - 👯 Open to collaborating on analysis projects and dashboards
 - 💬 Ask me about SQL, Excel, Python for data, and Power BI
-- ⚡ Fun fact: [add something about you]
 
 ---
 
@@ -52,19 +51,25 @@ I use **SQL, Excel, Python and Power BI** to clean, analyze and visualize data, 
 ## 📊 Featured Projects
 
 ### 🛒 [Zepto Inventory Analysis (MySQL)](https://github.com/MIKHIL02/ZEPTO-SQL-ANALYSIS)
+
 SQL cleaning and analysis of Zepto product listings (Kaggle dataset) to answer questions about pricing, discounts, stock and inventory.
+
 - **Steps:** explored the data, removed rows with MRP = 0, converted paise to rupees, then analyzed with aggregations and grouping
 - **Questions answered:** highest discounts, out-of-stock high-MRP products, revenue per category, price per gram, weight groups, inventory weight per category
-- **Key findings:** [X]% of listings are out of stock; [Category] has the highest average discount ([X]%); high-value products (MRP above ₹300) are out of stock, which suggests possible lost sales
+- **Key findings:** high-value products (MRP above ₹300) are out of stock, which suggests possible lost sales
 - **Tools:** `MySQL` `MySQL Workbench`
 
 ### 📈 [Business Sales Analysis](https://github.com/MIKHIL02/Business-sales-analysis)
-Analysis of business sales data to understand performance, trends and growth opportunities.
-- **Focus:** top-performing products, revenue and profit trends, business recommendations
-- **Tools:** `Excel` `SQL` `Power BI`
 
-### 🛍️ [Customer Behaviour Dashboard](add-link-here)
+Analysis of business sales data to understand performance, trends and growth opportunities.
+
+- **Focus:** top-performing products, revenue and profit trends, business recommendations
+- **Tools:** `MySQL` `MySQL Workbench`
+
+### 🛍️ [Customer Behaviour Dashboard](https://github.com/MIKHIL02/customer-behaviour-dashboard)
+
 Power BI dashboard showing customer count, average purchase amount, review rating, and revenue and sales by category, with filters for subscription, gender, category and shipping type.
+
 - **Tools:** `Power BI` `DAX`
 
 ---
