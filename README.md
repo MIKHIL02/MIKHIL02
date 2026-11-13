@@ -109,6 +109,6 @@ English · Telugu · Hindi
 
 - 📁 **Repositories:** [View all my projects](https://github.com/MIKHIL02?tab=repositories)
 - 👤 **GitHub profile:** [github.com/MIKHIL02](https://github.com/MIKHIL02)
-- 🛒 **Latest project:** [Zepto Inventory Analysis](https://github.com/MIKHIL02/ZEPTO-SQL-ANALYSIS)
+- 🛒 **Latest project:** [Customer Behaviour Analysis](https://github.com/MIKHIL02/Customer-Behaviour-Analysis)
 
 <p align="center"><i>Turning data into decisions.</i></p>
