@@ -59,7 +59,7 @@ SQL cleaning and analysis of Zepto product listings (Kaggle dataset) to answer q
 - **Key findings:** high-value products (MRP above ₹300) are out of stock, which suggests possible lost sales
 - **Tools:** `MySQL` `MySQL Workbench`
 
-### 📈 [Business Sales Analysis](https://github.com/MIKHIL02/Business-sales-analysis)
+### 📈 [Customer Behaviour  Analysis](https://github.com/MIKHIL02/Customer-Behaviour-Analysis)
 
 Analysis of business sales data to understand performance, trends and growth opportunities.
 
