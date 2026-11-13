@@ -61,10 +61,10 @@ SQL cleaning and analysis of Zepto product listings (Kaggle dataset) to answer q
 
 ### 📈 [Customer Behaviour  Analysis](https://github.com/MIKHIL02/Customer-Behaviour-Analysis)
 
-Analysis of business sales data to understand performance, trends and growth opportunities.
+Analysis of 3,900 customer purchases to understand spending patterns, customer segments, subscription behavior and growth opportunities.
 
-- **Focus:** top-performing products, revenue and profit trends, business recommendations
-- **Tools:** `MySQL` `MySQL Workbench`
+- **Focus:** customer segmentation, revenue by gender and category, subscription and discount behavior, business recommendations
+- **Tools:** `Excel` `MySQL` `MySQL Workbench` `Python` `pandas` `Power BI`
 
 ### 🛍️ [Customer Behaviour Dashboard](https://github.com/MIKHIL02/Customer-Behaviour-Analysis/blob/main/Customer%20Behaviour%20Dashboard.pbix)
 
