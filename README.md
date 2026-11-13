@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1212" height="157" alt="image" src="https://github.com/user-attachments/assets/1d4fc4db-ce11-4c4d-b95a-cc8c67887ae8" /><p align="center">
   <img src="profile-banner.svg" alt="Mikhil Marjapuram - Aspiring Data Analyst" width="100%"/>
 </p>
 
@@ -58,7 +58,7 @@ SQL cleaning and analysis of Zepto product listings (Kaggle dataset) to answer q
 - **Key findings:** [X]% of listings are out of stock; [Category] has the highest average discount ([X]%); high-value products (MRP above ₹300) are out of stock, which suggests possible lost sales
 - **Tools:** `MySQL` `MySQL Workbench`
 
-### 📈 [Business Sales Analysis](add-link-here)
+### 📈 [Business Sales Analysis](https://github.com/MIKHIL02/Business-sales-analysis)
 Analysis of business sales data to understand performance, trends and growth opportunities.
 - **Focus:** top-performing products, revenue and profit trends, business recommendations
 - **Tools:** `Excel` `SQL` `Power BI`
